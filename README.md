@@ -42,7 +42,7 @@ winget install --id Git.Git -e --source winget
 Criamos as contas no GitHub normalmente, utilizando a própria plataforma. Os usuários são:
 - Ailson Ferreira de Sousa - [Ailson-de-Sousa](https://github.com/Ailson-de-Sousa)
 - Brayham Procopio de Carvalho - [Brayham-Carvalho](https://github.com/Brayham-Carvalho)
-- Marcelo da Silva Gomes
+- Marcelo da Silva Gomes - [marcelogomes22](https://github.com/marcelogomes22)
 - Mateus Rodrigues Santos - [matrodsan](https://github.com/matrodsan)
 - Pedro Rodrigues Santos - [PRSantos10](https://github.com/PRSantos10)
 - Wanderson Barbosa da Silva - [wbsplus](https://github.com/wbsplus)
